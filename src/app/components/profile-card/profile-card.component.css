@@ -1,0 +1,15 @@
+.profile-card-card {
+    max-width: 400px;
+  }
+  
+.profile-social-icons{
+  text-align: center;
+}
+
+.profile-social-icon{
+  color: white;
+}
+
+.profile-social-icon:hover{
+  color: #65C9FF;
+}
